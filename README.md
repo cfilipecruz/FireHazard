@@ -1,66 +1,109 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!-- Header with Custom Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:F05340&height=150&section=header&fontColor=FFFFFF&fontSize=50&fontAlignY=35"/>
 
+<!-- Typing Animation with Consistent Colors -->
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F05340&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Fire+Extinguisher+Management+System;Developed+by+Filipe+Cruz"/>
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🚀 About the Project
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+The **Fire Extinguisher Management System** is a comprehensive web-based internal management platform designed for fire extinguisher maintenance companies. Developed as a part of my Bachelor's degree in Computer Graphics and Multimedia Engineering at ESTG/IPVC, this platform integrates seamlessly with the company's existing billing system, ftKode's GESFaturação, streamlining the management of fire extinguisher interventions, invoice generation, and reporting.
 
-## Learning Laravel
+### Key Features
+- **User Authentication**: Secure login, registration, and password recovery.
+- **Intervention Management**: Create, view, edit, and delete fire extinguisher interventions.
+- **User Management**: Manage user roles and permissions.
+- **Vehicle Management**: Track and manage intervention vehicles.
+- **Fluid Type Management**: Manage types of fluids used in fire extinguishers.
+- **Invoice Management**: Generate, view, edit, delete, and email invoices.
+- **Data Filtering**: Advanced filtering options for efficient data retrieval.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 📋 Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Usage](#usage)
+5. [Future Work](#future-work)
+6. [Acknowledgments](#acknowledgments)
+7. [License](#license)
+8. [Demo Video](#demo-video)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 🌐 Project Overview
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+The primary goal of the **Fire Extinguisher Management System** is to enhance the efficiency of managing fire extinguisher interventions through a user-friendly web platform. By automating manual processes and improving communication, the platform optimizes the scheduling, tracking, and documentation of interventions.
 
-### Premium Partners
+### Detailed Functionality
+- **Dashboard**: An intuitive dashboard providing an overview of all activities.
+- **Real-time Notifications**: Stay updated with real-time alerts on important activities.
+- **Reports and Analytics**: Generate detailed reports and gain insights with analytics.
+- **Mobile Responsive**: Accessible and fully functional on all devices.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## 💻 Tech Stack
 
-## Contributing
+- **Framework**: Laravel
+- **Backend**: PHP, MySQL
+- **Frontend**: HTML, CSS, JavaScript
+- **Hosting**: Paid web server
+- **Development Tools**: XAMPP, PHPStorm, AdminLTE
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## 🛠️ Usage
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- **Login**: Access the platform with your credentials.
+- **Manage Interventions**: Create, update, and delete interventions.
+- **Generate Invoices**: Manage and send invoices directly to clients.
+- **Filter Data**: Utilize the advanced filtering options to manage your records efficiently.
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 🔮 Future Work
 
-## License
+- **User Interface Enhancements**: Improve UI/UX design for better user interaction.
+- **Advanced Reporting**: Implement real-time analytics and predictive maintenance features.
+- **Enhanced Security**: Add robust data backup and auditing functionalities.
+- **Language Translations**: Add multi-language support for a broader user base.
+- **Mobile App**: Develop a mobile app for on-the-go management.
+- **Integration with Other Systems**: Integrate with other third-party systems for extended functionalities.
+- **AI-Powered Features**: Implement AI for predictive maintenance and intelligent analytics.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to my family for their unwavering support, my professors for their guidance, and my colleagues for their collaboration. Gratitude to the developer community on platforms like Stack Overflow for their invaluable resources.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 🎥 Demo Video
+
+Watch the video below to see a demonstration of the **Fire Extinguisher Management System** in action:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XXXXXXX" target="_blank">
+    <img src="https://img.youtube.com/vi/XXXXXXX/0.jpg" alt="Demo Video" width="600">
+  </a>
+</p>
+
+---
+
+<!-- Footer with Custom Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:F05340&height=120&section=footer"/>
