@@ -1,0 +1,15 @@
+.separator {
+    border-bottom: 1px solid #ddd;
+}
+
+.btn-custom {
+    background-color: #00A878;
+    border-color: #EA767E;
+    color: #fff;
+}
+
+.btn-custom:hover {
+    background-color: #006b4c;
+    border-color: #C54D5F;
+    color: #fff;
+}
