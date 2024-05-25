@@ -98,8 +98,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Watch the video below to see a demonstration of the **Fire Extinguisher Management System** in action:
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=XXXXXXX" target="_blank">
-    <img src="https://img.youtube.com/vi/XXXXXXX/0.jpg" alt="Demo Video" width="600">
+  <a href="https://youtu.be/MI6DqEtD1DU" target="_blank">
+    <img src="https://i3.ytimg.com/vi/MI6DqEtD1DU/maxresdefault.jpg" alt="Demo Video" width="600">
   </a>
 </p>
 
